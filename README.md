@@ -18,9 +18,11 @@ Each piece can be **flipped** and **rotated** at 60 degree increments, allowing
 for 12 different **orientations** (six rotations and a flip). 
 
 A completed game:
+
 ![game](assets/game-BAAHBATCJRDKWEBEFDNGLPHEDIFMJJQKIKLJ-350.png)
 
 The following sequence shows the progression of a solution to the game above.
+
 ![game](assets/game-BAA.png)
 ![game](assets/game-BAAHBA.png)
 ![game](assets/game-BAAHBATCJ.png)
