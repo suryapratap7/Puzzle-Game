@@ -17,4 +17,19 @@ unit.
 Each piece can be **flipped** and **rotated** at 60 degree increments, allowing
 for 12 different **orientations** (six rotations and a flip). 
 
+A completed game:
 ![game](assets/game-BAAHBATCJRDKWEBEFDNGLPHEDIFMJJQKIKLJ-350.png)
+
+The following sequence shows the progression of a solution to the game above.
+![game](assets/game-BAA.png)
+![game](assets/game-BAAHBA.png)
+![game](assets/game-BAAHBATCJ.png)
+![game](assets/game-BAAHBATCJRDK.png)
+![game](assets/game-BAAHBATCJRDKWEB.png)
+![game](assets/game-BAAHBATCJRDKWEBEFD.png)
+![game](assets/game-BAAHBATCJRDKWEBEFDNGL.png)
+![game](assets/game-BAAHBATCJRDKWEBEFDNGLPHE.png)
+![game](assets/game-BAAHBATCJRDKWEBEFDNGLPHEDIF.png)
+![game](assets/game-BAAHBATCJRDKWEBEFDNGLPHEDIFMJJ.png)
+![game](assets/game-BAAHBATCJRDKWEBEFDNGLPHEDIFMJJQKI.png)
+![game](assets/game-BAAHBATCJRDKWEBEFDNGLPHEDIFMJJQKIKLJ.png)
